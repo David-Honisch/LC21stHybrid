@@ -1,6 +1,8 @@
-# electron-quick-start
+#LC21stHybrid
 
 **Clone and run for a quick way to see Electron in action.**
+
+Sources at: http://www.letztechance.org
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
 
